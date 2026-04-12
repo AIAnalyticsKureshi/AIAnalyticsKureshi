@@ -32,7 +32,7 @@ With 1.5 years of real operational reporting experience and two independent BI p
 
 **BI & Reporting**
 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -120,7 +120,7 @@ Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) →
 
 ## 🤝 Open to opportunities
 
-I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Data Analyst roles** in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
+I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Power BI Developer / Analyst** in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
 
 I bring structured thinking, real project work, and 1.5 years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
 
