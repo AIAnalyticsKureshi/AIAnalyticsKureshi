@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Kureshi;Junior+BI+%26+Reporting+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+DAX;Building+BI+systems+end-to-end;Turning+raw+data+into+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Kureshi;Business+Intelligence+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+DAX;Building+BI+systems+end-to-end;Turning+raw+data+into+decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -120,7 +120,7 @@ Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) →
 
 ## 🤝 Open to opportunities
 
-I am actively looking for **full-time BI Analyst, Reporting Analyst, or Data Analyst roles** in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
+I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Data Analyst roles** in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
 
 I bring structured thinking, real project work, and 1.5 years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
 
