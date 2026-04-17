@@ -12,23 +12,22 @@
 
 ---
 
-## 🙋‍♂️ About me
+## 🙋‍♂️ About Me
 
 I build Business Intelligence systems end-to-end — from **star schema warehouse design** and **ETL pipelines** to **Power BI dashboards** and **KPI frameworks**. My focus is making data trustworthy before making it visual.
 
-With 1.5 years of real operational reporting experience and two independent BI projects delivered, I bring both business understanding and technical execution to every dataset I work with.
+With 1.5 years of real operational reporting experience and two independent BI projects delivered from scratch, I bring both business understanding and technical execution to every dataset I work with.
 
-- 🔭 Currently building the **BI Control Tower** — a full BI ecosystem for a fictional global logistics company (EuroTrade GmbH), built in weekly sprints
 - 📊 Strong in Power BI, DAX, star schema design, ETL pipelines, and data quality governance
 - 🏆 **Microsoft PL-300 Power BI Certification** — In Progress · Expected May 2026
 - 📜 **Advanced Excel** — Certified
 - 🎓 M.A. International Management — IU International University of Applied Sciences, Germany
-- 📍 Magdeburg, Germany · Open to relocation across Germany
+- 📍 Berlin, Germany · Open to relocation across Germany
 - 💼 Targeting: **BI Analyst · Reporting Analyst · Data Analyst** roles in Germany
 
 ---
 
-## 💻 Tech stack
+## 💻 Tech Stack
 
 **BI & Reporting**
 
@@ -58,23 +57,33 @@ With 1.5 years of real operational reporting experience and two independent BI p
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
 ### 🏗️ BI Control Tower — EuroTrade GmbH
-> End-to-end logistics BI system for a fictional global supply chain company — built to mirror real-world enterprise BI work.
+> End-to-end logistics BI system for a fictional European logistics company — built to mirror real-world enterprise BI work across SQL, Python, and Power BI.
 
-**The business problem:** EuroTrade GmbH had shipment data scattered across systems with no single source of truth. Leadership had no visibility into delivery performance, route profitability, or supplier reliability. This project builds the full BI layer to fix that.
+**The business problem:** EuroTrade GmbH had shipment data scattered across systems with no single source of truth. Leadership had zero visibility into delivery performance, route profitability, supplier reliability, or CO₂ compliance under CSRD regulations. This project delivers the complete BI layer to fix that.
 
-| Layer | What was built | Key techniques | Status |
+| Layer | What Was Built | Key Techniques | Status |
 |-------|---------------|----------------|--------|
-| 01 SQL | Star schema (3NF) + advanced queries | Window functions · CTEs · RANK() · Rolling averages | ✅ Done |
-| 02 Python | ETL pipeline + data quality scorecard | Pandas · Null detection · Duplicate flagging · Range validation | ✅ Done |
-| 03 Power BI | KPI dashboard — delivery, cost, profitability | DAX · Power Query · Drill-through · Slicers | 🔄 In progress |
-| 04 Excel | Scenario planning model | What-if analysis | ⏳ Coming next |
+| 01 SQL | Star schema (3NF) + 5 advanced queries | Window functions · CTEs · RANK() · CO₂ tracking | ✅ Complete |
+| 02 Python | ETL pipeline + automated data quality scorecard | Pandas · Null detection · Referential integrity · Range validation | ✅ Complete |
+| 03 Power BI | 3-page KPI dashboard · Bookmark navigation · Obsidian Violet theme | DAX · Power Query · Drill-through · Dynamic alerts | ✅ Complete |
+
+**Key metrics delivered:**
+
+| Metric | Value |
+|--------|-------|
+| Total Revenue | €20.0M |
+| Net Profit | €5.95M · 29.74% margin |
+| Freight Cost | 8.66% · ⚠️ Near 9% threshold |
+| Air vs Sea CO₂ Ratio | 10.96× |
+| CO₂ Saving Potential | 68.2% via modal shift |
+| Total Shipments | 524 |
 
 **Architecture:**
 ```
-Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) → Power BI Dashboard
+Raw Data → ETL Pipeline (Python · Pandas) → SQLite Warehouse (Star Schema) → Power BI Dashboard
 ```
 
 [![View Project](https://img.shields.io/badge/View_Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIAnalyticsKureshi/BI-Control-Tower-EuroTrade)
@@ -95,8 +104,7 @@ Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) →
 
 ---
 
-
-## 💼 Professional background
+## 💼 Professional Background
 
 **Reporting & Operations Analyst — SMGK Developers Pvt. Ltd.** *(May 2022 – Nov 2023 · Mumbai, India)*
 
@@ -107,7 +115,7 @@ Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) →
 
 ---
 
-## 🎓 Education & certifications
+## 🎓 Education & Certifications
 
 | | |
 |---|---|
@@ -118,11 +126,11 @@ Raw Data → ETL Pipeline (Python/Pandas) → SQLite Warehouse (Star Schema) →
 
 ---
 
-## 🤝 Open to opportunities
+## 🤝 Open to Opportunities
 
-I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Power BI Developer / Analyst** in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
+I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Data Analyst** roles in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
 
-I bring structured thinking, real project work, and 1.5 years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
+I bring structured thinking, two fully delivered end-to-end BI projects, and 1.5 years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kureshi/)
 [![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.kureshi04@gmail.com)
@@ -130,5 +138,5 @@ I bring structured thinking, real project work, and 1.5 years of operational rep
 ---
 
 <div align="center">
-<sub>📍 Magdeburg, Germany · Open to relocation · Last updated: April 2026</sub>
+<sub>📍 Berlin, Germany · Open to relocation · Last updated: April 2026</sub>
 </div>
