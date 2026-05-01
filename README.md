@@ -106,7 +106,16 @@ Raw Data → ETL Pipeline (Python · Pandas) → SQLite Warehouse (Star Schema) 
 
 ## 💼 Professional Background
 
-**Reporting & Operations Analyst — SMGK Developers Pvt. Ltd.** *(May 2022 – Nov 2023 · Mumbai, India)*
+**Reporting & Data Analyst (Junior) — Rhyno Foam Industries** *(June 2023 – November 2023 · Morbi, Gujarat, India)*
+
+- Maintained structured reporting datasets across internal teams, reducing manual rework on weekly reports by approximately **30%** through standardised templates
+- Consolidated data from multiple internal systems into unified management reports — giving leadership a **single, reliable view** of operations
+- Performed regular data quality and consistency checks, catching discrepancies **before they reached management** and improving trust in reported numbers
+- Contributed to documentation standards that reduced onboarding time for report users by approximately **20%**
+
+---
+
+**Reporting & Operations Analyst — SMGK Developers Pvt. Ltd.** *(May 2022 – May 2023 · Mumbai, India)*
 
 - Standardized reporting templates across departments, reducing report preparation time by **32%**
 - Consolidated data from multiple internal teams into structured management reports for senior leadership
