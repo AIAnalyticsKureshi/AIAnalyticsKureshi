@@ -128,7 +128,7 @@ Raw Data → ETL Pipeline (Python · Pandas) → SQLite Warehouse (Star Schema) 
 
 | | |
 |---|---|
-| 🏆 | **Microsoft PL-300 · Power BI Data Analyst Associate** — In Progress · Expected May 2026 |
+| 🏆 | **Microsoft PL-300 · Power BI Data Analyst Associate** — In Progress · Expected June 2026 |
 | 📜 | **Advanced Excel** — Certified |
 | 🎓 | M.A. International Management — IU International University of Applied Sciences, Germany (2024–2025) |
 | 🎓 | BBA — Bhakta Kavi Narsinh Mehta University, India (2019–2022) |
@@ -139,7 +139,7 @@ Raw Data → ETL Pipeline (Python · Pandas) → SQLite Warehouse (Star Schema) 
 
 I am actively looking for **full-time Business Intelligence Analyst, Reporting Analyst, or Data Analyst** roles in Germany — especially at **startups and mid-size companies** where analytical thinking directly supports business decisions.
 
-I bring structured thinking, two fully delivered end-to-end BI projects, and 1.5 years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
+I bring structured thinking, two fully delivered end-to-end BI projects, and 1.5+ years of operational reporting experience. I work best where data quality and clear visual storytelling matter.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kureshi/)
 [![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.kureshi04@gmail.com)
