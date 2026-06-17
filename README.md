@@ -19,7 +19,7 @@ I build Business Intelligence systems end-to-end — from **star schema warehous
 With 1.5 years of real operational reporting experience and two independent BI projects delivered from scratch, I bring both business understanding and technical execution to every dataset I work with.
 
 - 📊 Strong in Power BI, DAX, star schema design, ETL pipelines, and data quality governance
-- 🏆 **Microsoft PL-300 Power BI Certification** — In Progress · Expected May 2026
+- 🏆 **Microsoft PL-300 Power BI Certification** — In Progress · Expected June 2026
 - 📜 **Advanced Excel** — Certified
 - 🎓 M.A. International Management — IU International University of Applied Sciences, Germany
 - 📍 Berlin, Germany · Open to relocation across Germany
